@@ -19,18 +19,18 @@ This project focuses on the process of designing a data warehouse for a cloud se
 ## Queries Supported
 
 average billing per customer
-billing by country
-top 10 customers
-top 10 countries
-billing by industry
-billing by category
-billing by year
-billing by month
-billing by quarter
-average billing per industry per month
-average billing per industry per quarter
-average billing per country per quarter
-average billing per country per industry per quarter
+-billing by country
+-top 10 customers
+-top 10 countries
+-billing by industry
+-billing by category
+-billing by year
+-billing by month
+-billing by quarter
+-average billing per industry per month
+-average billing per industry per quarter
+-average billing per country per quarter
+-average billing per country per industry per quarter
 
 ## Conclusion
 
